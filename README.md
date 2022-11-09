@@ -17,9 +17,12 @@ Aşağıda eklediğim görselleri incelemek isteyebilirsiniz.
 <h4>1)Login Sayfası</h4>
 <img src="https://user-images.githubusercontent.com/51122010/193063416-9ef6f8e5-ab1f-4775-b214-a2c7a7dd38cc.png" width="128"/>
 
+<br>
+<hr>
 
-2)Aktif Kullanıcının Profil Sayfası
-![Screenshot_1664461817](https://user-images.githubusercontent.com/51122010/193063609-40eb87be-11d7-4712-b352-564cf40ec148.png)
+<h4>2)Aktif Kullanıcının Profil Sayfası</h4>
+
+<img src="https://user-images.githubusercontent.com/51122010/193063609-40eb87be-11d7-4712-b352-564cf40ec148.png" width="128"/>
 
 3)Profiline Gidilen Kullanıcının Profil Sayfası
 (Görseller iki şekilde de gözükmektedir. Grid olarak ve ya liste yapısında.)
