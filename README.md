@@ -12,7 +12,8 @@ Not : Kendi bilgisayarınızda çalıştırabilmeniz için Firebase eklemelerini
 Aşağıda eklediğim görselleri incelemek isteyebilirsiniz.
 
 1)Login Sayfası
-![Screenshot_1664461963](https://user-images.githubusercontent.com/51122010/193063416-9ef6f8e5-ab1f-4775-b214-a2c7a7dd38cc.png)
+<img src="https://user-images.githubusercontent.com/51122010/193063416-9ef6f8e5-ab1f-4775-b214-a2c7a7dd38cc.png" width="128"/>
+
 
 2)Aktif Kullanıcının Profil Sayfası
 ![Screenshot_1664461817](https://user-images.githubusercontent.com/51122010/193063609-40eb87be-11d7-4712-b352-564cf40ec148.png)
