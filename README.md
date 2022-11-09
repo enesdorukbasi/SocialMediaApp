@@ -2,12 +2,18 @@
 
 Kodlamasında Flutter ve Dart, veritabanı içinse Firebase kullanılarak yapılmış Instagram klonu.
 
+<br>
 -Firebase Auth içerisinde kullanıcı kaydı, girişi ve parola sıfırlama işlemlerini ekledim. Parola sıfırlama işlemini mail aracılığı ile sağlıyor.
+<br>
 -Dataların kaydı Firebase Store içerisinde yapılıyor.
+<br>
 -Görseller Firebase Storage içerisine kayıt ediliyor.
+<br>
 -Firebase içersinde kullanılabilmesi için ekleme, silme, güncelleme işlemleriyle tetiklenen trigger func kullanıldı.(Kullanabilmek için ücretli kısıma geçmeniz gerekiyor, kotasını geçmediğiniz sürece ücret talep edilmiyor.)
+<br>
 
 Not : Kendi bilgisayarınızda çalıştırabilmeniz için Firebase eklemelerini yapmanız gerekmektedir.
+<br>
 
 Aşağıda eklediğim görselleri incelemek isteyebilirsiniz.
 
