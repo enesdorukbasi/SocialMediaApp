@@ -9,8 +9,8 @@ Kodlamasında Flutter ve Dart, veritabanı içinse Firebase kullanılarak yapıl
 <br>
 -Görseller Firebase Storage içerisine kayıt ediliyor.
 <br>
-<br>
 -Firebase içersinde kullanılabilmesi için ekleme, silme, güncelleme işlemleriyle tetiklenen trigger func kullanıldı.(Kullanabilmek için ücretli kısıma geçmeniz gerekiyor, kotasını geçmediğiniz sürece ücret talep edilmiyor.)
+<br>
 <br>
 
 Not : Kendi bilgisayarınızda çalıştırabilmeniz için Firebase eklemelerini yapmanız gerekmektedir.
