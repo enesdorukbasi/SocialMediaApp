@@ -27,7 +27,6 @@ Aşağıda eklediğim görselleri incelemek isteyebilirsiniz.
 <hr>
 
 <h4>3)Profiline Gidilen Kullanıcının Profil Sayfası</h4>
-<br>
 (Görseller iki şekilde de gözükmektedir. Grid olarak ve ya liste yapısında.)
 <img src="https://user-images.githubusercontent.com/51122010/193063724-12559b62-b3d1-4e2e-9365-a39fb6a54685.png" width="300"/>
 
